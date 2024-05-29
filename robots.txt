@@ -1,0 +1,4 @@
+Sitemap: https://glasstractor.orgalitpro.ru/sitemap.xml
+User-agent: *
+Allow: 
+Allow: 

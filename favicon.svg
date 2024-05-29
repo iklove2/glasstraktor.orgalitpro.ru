@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="13.322917"
+     inkscape:cx="4.9163409"
+     inkscape:cy="26.908522"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <rect
+       style="fill:#163ba4;fill-opacity:1;stroke:none;stroke-width:1.33333;-inkscape-stroke:none"
+       id="rect1"
+       width="48.562939"
+       height="48.52541"
+       x="0.0036069881"
+       y="-0.0020529891" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.33333;-inkscape-stroke:none"
+       id="rect2"
+       width="44.397186"
+       height="44.059425"
+       x="2.0306304"
+       y="2.546659" />
+    <rect
+       style="fill:#163ba4;fill-opacity:1;stroke:none;stroke-width:1.33333;-inkscape-stroke:none"
+       id="rect3"
+       width="41.057076"
+       height="40.982018"
+       x="3.7623119"
+       y="4.2032847" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.33333;-inkscape-stroke:none"
+       x="11.701087"
+       y="39.741764"
+       id="text2-3"><tspan
+         sodipodi:role="line"
+         id="tspan2-5"
+         x="11.701087"
+         y="39.741764"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold'">0</tspan></text>
+  </g>
+</svg>
